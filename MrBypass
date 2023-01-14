@@ -1,0 +1,5 @@
+# MrBypass
+rm -rf MrBypass 
+git clone https://github.com/Markhor-404/MrBypass
+cd MrBypass 
+python MrBypaas-enc.py
